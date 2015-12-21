@@ -1,2 +1,2 @@
 # MAP-Project
-Map project: Platformer game.
+2D Java game using a physics engine.
